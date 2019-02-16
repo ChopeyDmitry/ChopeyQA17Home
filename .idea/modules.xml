@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-Selenium-Project.iml" filepath="$PROJECT_DIR$/.idea/modules/first-Selenium-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-Selenium-Project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-Selenium-Project_main.iml" group="first-Selenium-Project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-Selenium-Project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/first-Selenium-Project_test.iml" group="first-Selenium-Project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-Selenium-Project.iml" filepath="$PROJECT_DIR$/.idea/modules/second-Selenium-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-Selenium-Project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/second-Selenium-Project_main.iml" group="second-Selenium-Project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-Selenium-Project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/second-Selenium-Project_test.iml" group="second-Selenium-Project" />
+    </modules>
+  </component>
+</project>
