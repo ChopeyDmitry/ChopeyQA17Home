@@ -1,17 +1,20 @@
-import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeSuite;
+package com.tran.ebay.tests;
+
+import com.tran.ebay.app.ApplicationManager;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 
 public class TestBase {
 
     protected static ApplicationManager app = new ApplicationManager();
 
-    @BeforeSuite
+    @BeforeClass
     public void setUp() {
         app.init();
 
     }
 
-    @AfterSuite
+    @AfterClass
     public void tearDown() {
         app.stop();
     }
